@@ -13,7 +13,7 @@ description: >
   security audit, pen test, vulnerability scan.
 license: MIT
 metadata:
-  author: Josh
+  author: Nut Suwanchote (Luxlaxa)
   version: 1.0.0
 ---
 

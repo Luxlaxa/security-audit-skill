@@ -2,20 +2,20 @@
 
 A 20-domain, enterprise-grade security audit skill for AI coding assistants. Detects your stack, assesses your architecture tier, and audits at three depth levels with an A-F security grade.
 
-Built by Josh and Trace, inspired by [Chris Raroque's vibe-security skill](https://github.com/raroque/vibe-security-skill).
+Built by Nut Suwanchote (Luxlaxa) and Trace, inspired by [Chris Raroque's vibe-security skill](https://github.com/raroque/vibe-security-skill).
 
 ## Install
 
 ### Claude Code
 
 ```bash
-npx skills add https://github.com/joshcreates/security-audit-skill --skill security-audit
+npx skills add https://github.com/Luxlaxa/security-audit-skill --skill security-audit
 ```
 
 Or manually:
 
 ```bash
-git clone https://github.com/joshcreates/security-audit-skill.git
+git clone https://github.com/Luxlaxa/security-audit-skill.git
 cp -r security-audit-skill/ ~/.claude/skills/security-audit/
 ```
 
